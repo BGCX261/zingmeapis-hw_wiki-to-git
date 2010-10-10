@@ -1,12 +1,7 @@
-#summary One-sentence summary of this page.
 #labels zingme,opensocial,xampp,apahce,php
+#Hướng dẫn cài đặt môi trường.
 
-= 
-HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG 
-CHẠY ZING ME OPEN SOCIAL =
-
-Add your content here.
-
+=HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG CHẠY ZING ME OPEN SOCIAL=
 
 ==Cài đặt web server==
 
@@ -51,4 +46,3 @@ Sau khi đã đăng nhập vào sandbox zing me, chạy URL http://testos.me.zin
 URL đến ứng dụng mẫu:
  http://dev.apps.me.zing.vn/apps/osapp
  
-
