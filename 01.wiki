@@ -1,5 +1,5 @@
 #labels zingme,opensocial,xampp,apahce,php
-#Hướng dẫn cài đặt môi trường.
+#Hướng dẫn cài đặt môi trường#
 
 =HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG CHẠY ZING ME OPEN SOCIAL=
 
