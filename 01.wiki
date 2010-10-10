@@ -1,7 +1,9 @@
-#labels zingme,opensocial,xampp,apahce,php
-#Hướng dẫn cài đặt môi trường#
+#labels Tutorial,install,Shindig
+#Hướng dẫn cài đặt môi trường
 
 =HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG CHẠY ZING ME OPEN SOCIAL=
+
+http://shindig.apache.org/images/logos/opensocialsite-logo.png
 
 ==Cài đặt web server==
 
@@ -14,19 +16,20 @@ Chạy chương trình để cài đặt XAMPP.
 
 *Sau khi cài đặt XAMPP xong, để config môi trường, chép các file như sau:*
 
-===Download 2 file sau===
 
-http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Sample_Code.rar
+===Download===
+*Config files* [http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Config.rar http://cdn.iconfinder.net/data/icons/berlin/16x16/config.png]
+*Sample code* [http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Sample_Code.rar http://cdn.iconfinder.net/data/icons/CrystalClear/22x22/apps/ark2.png]
 
-http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Config.rar
+===Config===
 
-Copy file ZingMe_Traing_OpenSocial\config\hosts đè lên 
+Copy file *hosts* đè lên 
 *C:\WINDOWS\system32\drivers\etc\hosts*
 
-Copy file ZingMe_Traing_OpenSocial\config\httpd-vhosts.conf đè lên 
+Copy file *httpd-vhosts.conf* đè lên 
 *C:\xampp\apache\conf\extra\httpd-vhosts.conf*
 
-Copy file ZingMe_Traing_OpenSocial\config\php.ini đè lên 
+Copy file *php.ini* đè lên 
 *C:\xampp\php\php.ini*
 
 ===Restart lại apache để các config có hiệu lực===
@@ -38,9 +41,9 @@ Chọn Stop, sau đó Start lại Apache
 
 ==Chạy thử các API==
 
-Chép 2 thư mục (app_test và testos) trong ZingMe_Traing_OpenSocial\Sample_Code vào C:\xampp\htdocs
+Chép 2 thư mục (*App_test* và *Testos*) trong Sample_Code vào *C:\xampp\htdocs*
 
-===Đăng nhập sanbox zing me===
+===Đăng nhập Sandbox Zing me===
 
 Mở trình duyệt với địa chỉ: http://dev.me.zing.vn
 
