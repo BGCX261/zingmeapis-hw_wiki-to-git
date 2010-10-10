@@ -1,4 +1,4 @@
-#summary # Slide & tài liệu Zing me Opensocial Tutorial.
+#summary Slide & tài liệu Zing me Opensocial Tutorial.
 #labels Zingme
 
 = Slide Zing me Opensocial Tutorial =
