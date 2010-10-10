@@ -1,0 +1,40 @@
+#labels tutorial,opensocial,zingme
+#Slide & tài liệu Zing me Opensocial Tutorial.
+
+= Slide Zing me Opensocial Tutorial =
+
+Để tạo điều kiện tốt nhất cho các bạn tham gia cuộc thi. Công ty VNG đã tổ chức chương trình training ngắn hạn dành cho các bạn đã tham gia cuộc thi.
+
+= Nội dung chương trình =
+
+=== Lập trình Web trên mạng xã hội với Open Social==
+
+===Bài 1: 9/10, 8h30===
+- Tham quan môi trường làm việc chuyên nghiệp tại VNG
+
+- Tổng quát các vấn đề quan trọng của Lập trình web
+
+- JavaScript
+
+- PHP
+
+- Cài đặt môi trường giả lập Zing Me
+
+- Phân tích ý tưởng dự thi
+
+[http://www.slideshare.net/leminhhai/zing-me-open-social-training-01 http://img1-photo.apps.zing.vn/upload/original/2010/10/10/22/05/1286723141359892267_574_574.jpg]
+
+===Bài 2: 10/10, 8h30===
+
+- Zing Me Open Social
+
+- Thực hành JS APIs
+
+- Thực hành REST APIs
+
+
+[http://www.slideshare.net/leminhhai/zing-me-open-social-training-02 http://img1-photo.apps.zing.vn/upload/original/2010/10/10/22/06/12867231721553089634_574_574.jpg]
+
+===Download===
+Config files [http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Config.rar http://cdn.iconfinder.net/data/icons/berlin/16x16/config.png]
+Sample code [http://zingmeapis.googlecode.com/files/Zing%20me%20OS%20API%20Sample_Code.rar http://cdn.iconfinder.net/data/icons/CrystalClear/22x22/apps/ark2.png]
