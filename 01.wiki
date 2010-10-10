@@ -1,0 +1,54 @@
+#summary One-sentence summary of this page.
+#labels zingme,opensocial,xampp,apahce,php
+
+= 
+HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG 
+CHẠY ZING ME OPEN SOCIAL =
+
+Add your content here.
+
+
+==Cài đặt web server==
+
+Download phiên bản XAMPP dành cho Window tại đây: http://www.apachefriends.org/en/xampp-windows.html
+
+Chạy chương trình để cài đặt XAMPP.
+ 
+
+==Config==
+
+*Sau khi cài đặt XAMPP xong, để config môi trường, chép các file như sau:*
+
+Copy file ZingMe_Traing_OpenSocial\config\hosts đè lên 
+*C:\WINDOWS\system32\drivers\etc\hosts*
+
+Copy file ZingMe_Traing_OpenSocial\config\httpd-vhosts.conf đè lên 
+*C:\xampp\apache\conf\extra\httpd-vhosts.conf*
+
+Copy file ZingMe_Traing_OpenSocial\config\php.ini đè lên 
+*C:\xampp\php\php.ini*
+
+*Restart lại apache để các config có hiệu lực.*
+
+Chạy XAMPP Control Panel (sau khi cài đặt sẽ có Icon ở ngoài Desktop)
+
+Chọn Stop, sau đó Start lại Apache
+ 
+
+==Chạy thử các API==
+
+Chép 2 thư mục (app_test và testos) trong ZingMe_Traing_OpenSocial\Sample_Code vào C:\xampp\htdocs
+
+*Đăng nhập sanbox zing me: *
+
+Mở trình duyệt với địa chỉ: http://dev.me.zing.vn
+
+Đăng nhập: các accout để test: chitdi1, chitdi2 , ..., chitdi9 mật khẩu giống như account.
+
+Sau khi đã đăng nhập vào sandbox zing me, chạy URL http://testos.me.zing.vn (domain này virtual host ở: C:\xampp\htdocs\testos) để chạy thử các API.
+ 
+==Chạy Ứng dụng Open Social mẫu trên Sandbox của Zing Me==
+URL đến ứng dụng mẫu:
+ http://dev.apps.me.zing.vn/apps/osapp
+ 
+
