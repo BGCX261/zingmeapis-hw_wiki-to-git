@@ -1,6 +1,6 @@
-#Hướng dẫn cài đặt môi trường.
+#summary Hướng dẫn cài đặt môi trường chạy Zing me Opensocial.
 
-= HƯỚNG DẪN CÀI ĐẶT MÔI TRƯỜNG CHẠY ZING ME OPEN SOCIAL =
+= Hướng dẫn cài đặt môi trường chạy Zing me Opensocial =
 
 http://shindig.apache.org/images/logos/opensocialsite-logo.png
 
