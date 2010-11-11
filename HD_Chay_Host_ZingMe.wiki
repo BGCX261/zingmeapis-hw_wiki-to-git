@@ -1,4 +1,4 @@
-
+#labels HƯỚNGDẪNCÀIĐẶTỨNGDỤNGOPENSOCIALTRÊNHOSTZINGMEdànhchocácnhómdùngPHPMySQL
 HƯỚNG DẪN CÀI ĐẶT ỨNG DỤNG OPENSOCIAL 
 TRÊN HOST ZING ME
 
@@ -46,7 +46,5 @@ Sau khi add host, chạy thử appX.opensocial.zing.vn sẽ được giao diện
 http://dev.container.me.zing.vn/testcontainer.php
 Nhập vào đường dẫn gadget:
 http://appX.opensocial.zing.vn/gadgets/makeRequestGadget.xml
-
-
 
 
