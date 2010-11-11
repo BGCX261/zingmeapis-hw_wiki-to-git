@@ -1,0 +1,52 @@
+
+HƯỚNG DẪN CÀI ĐẶT ỨNG DỤNG OPENSOCIAL 
+TRÊN HOST ZING ME
+
+
+1.	Kiểm tra thông tin host
+Zing Me sẽ cung cấp cho bạn host hỗ trợ các thành phần sau:
+•	1 Database MySQL.
+•	PhpMyAdmin
+•	FTP
+Để quản trị cơ sở dữ liệu, truy cập vào địa chỉ sau: http://118.102.6.119/phpmyadmin/ để vào PhpMyAdmin.
+Đăng nhập vào với tài khoản đã được cấp. Ví dụ: opensocial1 pass: xxxx
+ 
+
+
+2.	Upload file
+Sử dụng FTP client đã upload file (có thể dùng Total Commander, Window Explorer...).
+ 
+
+Nhập vào tài khoản FTP đã được cấp cho mỗi nhóm, PORT 443. Ví dụ: opensocial1 pass: xxx
+Sau khi đã đăng nhập,  upload sample code bao gồm: gadget file và home server.
+Cấu trúc file như hình: 
+ 
+
+3.	Chạy thử ứng dụng
+Add vào các host sau:
+118.102.6.119 appX.opensocial.zing.vn (1)
+
+222.255.122.3 dev.passport.me.zing.vn
+222.255.122.3 dev.static.me.zing.vn
+222.255.122.3 img-dev.avatar.me.zing.vn
+222.255.122.3 dev.img.me.zdn.vn dev.css.me.zdn.vn
+222.255.122.3 dev.avatar.me.zing.vn
+222.255.122.3 dev.me.zing.vn
+222.255.122.3 dev.opensocial.me.zing.vn dev.container.me.zing.vn
+222.255.122.3 dev.opensocial.me.zing.vn dev.container.me.zing.vn
+
+(1)	Note:
+•	appX.opensocial.zing.vn host X này thuộc vào host các bạn được cấp (ví dụ app3.opensocial.zing.vn, app4.opensocial.zing.vn....)
+•	Trên window, file host nằm ở C:\WINDOWS\system32\drivers\etc\hosts, trên linux: /etc/hosts
+
+Sau khi add host, chạy thử appX.opensocial.zing.vn sẽ được giao diện như hình 
+
+
+Để chạy thử ứng dụng sử dụng Test Container trên Zing Me Sandbox:
+http://dev.container.me.zing.vn/testcontainer.php
+Nhập vào đường dẫn gadget:
+http://appX.opensocial.zing.vn/gadgets/makeRequestGadget.xml
+
+
+
+
