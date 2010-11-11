@@ -4,7 +4,7 @@
 
 1.	Kiểm tra thông tin host
 Zing Me sẽ cung cấp cho bạn host hỗ trợ các thành phần sau:
-•	1 Database MySQL.
+•	Database MySQL.
 •	PhpMyAdmin
 •	FTP
 Để quản trị cơ sở dữ liệu, truy cập vào địa chỉ sau: http://118.102.6.119/phpmyadmin/ để vào PhpMyAdmin.
@@ -26,16 +26,25 @@ Add vào các host sau:
 118.102.6.119 appX.opensocial.zing.vn (1)
 
 222.255.122.3 dev.passport.me.zing.vn
+
 222.255.122.3 dev.static.me.zing.vn
+
 222.255.122.3 img-dev.avatar.me.zing.vn
+
 222.255.122.3 dev.img.me.zdn.vn dev.css.me.zdn.vn
+
 222.255.122.3 dev.avatar.me.zing.vn
+
 222.255.122.3 dev.me.zing.vn
+
 222.255.122.3 dev.opensocial.me.zing.vn dev.container.me.zing.vn
+
 222.255.122.3 dev.opensocial.me.zing.vn dev.container.me.zing.vn
+
 
 (1)	Note:
 •	appX.opensocial.zing.vn host X này thuộc vào host các bạn được cấp (ví dụ app3.opensocial.zing.vn, app4.opensocial.zing.vn....)
+
 •	Trên window, file host nằm ở C:\WINDOWS\system32\drivers\etc\hosts, trên linux: /etc/hosts
 
 Sau khi add host, chạy thử appX.opensocial.zing.vn sẽ được giao diện như hình 
@@ -45,3 +54,5 @@ Sau khi add host, chạy thử appX.opensocial.zing.vn sẽ được giao diện
 http://dev.container.me.zing.vn/testcontainer.php
 Nhập vào đường dẫn gadget:
 http://appX.opensocial.zing.vn/gadgets/makeRequestGadget.xml
+
+Các file mã nguồn mẫu, các bạn tải về trong phần DOWNLOAD !!!
