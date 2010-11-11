@@ -1,5 +1,4 @@
 #summary HƯỚNG DẪN CÀI ĐẶT ỨNG DỤNG OPENSOCIAL TRÊN HOST ZING ME dành cho các nhóm qua vòng 2
-#labels HƯỚNGDẪNCÀIĐẶTỨNGDỤNGOPENSOCIALTRÊNHOSTZINGMEdànhchocácnhómdùngPHPMySQL
 
 (mọi người vào phần DOWNLOAD để tải bản hướng dẫn đầy đủ có hình minh họa).
 
