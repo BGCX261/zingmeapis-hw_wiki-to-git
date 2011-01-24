@@ -1,0 +1,44 @@
+#Tổng hợp kết quả truyền thông cuộc thi viết ứng dụng vòng II.
+
+= Tổng hợp kết quả truyền thông cuộc thi viết ứng dụng vòng II =
+
+Cuộc thi lập trình viết ứng dụng trên mạng xã hội Zing Me đã được nhiều báo đài cũng như phương tiện thông tin đại chúng cập nhật trong thời gian vừa qua.
+
+= Danh sách tin bài =
+
+||	*TÊN BÁO*	||	*TIÊU ĐỀ*	||	*BÀI BÁO*	||
+||	Vietnamplus	||	Zing Me tạo sân chơi cho các lập trình viên trẻ	||	http://www.vietnamplus.vn/Home/Zing-Me-tao-san-choi-cho-cac-lap-trinh-vien-tre/20109/59382.vnplus	||
+||	Diễn đàn doanh nghiệp	||	Viết ứng dụng trên Zing Me – cơ hội cho các nhà lập trình trẻ	||	http://dddn.com.vn/20100907034335808cat67/viet-ung-dung-tren-zing-me-co-hoi-cho-cac-nha-lap-trinh-tre.htm	||
+||	Xã hội thông tin	||	Viết ứng dụng trên Zing Me – cơ hội cho các nhà lập trình trẻ	||	http://xahoithongtin..com.vn/20100907044941523p0c206/viet-ung-dung-tren-zing-me--co-hoi-cho-cac-nha-lap-trinh-tre.htm	||
+||	Đảng cộng sản	||	Cuộc thi viết ứng dụng trên mạng xã hội Zing Me: Cơ hội cho các lập trình trẻ Việt Nam 	||	http://dangcongsan.vn/cpv/Modules/News/NewsDetail.aspx?co_id=30085&cn_id=421605#UxdHuJGTWtRs	||
+||	vtv.vn	||	Khởi động cuộc thi viết ứng dụng cho Zing Me	||	http://vtv.vn/Article/Get/Khoi-dong-cuoc-thi-viet-ung-dung-cho-Zing-Me-18131ad2fc.html	||
+||	Thể thao - Văn hóa	||	Viết ứng dụng trên Zing Me – cơ hội cho các nhà lập trình trẻ	||		||
+||	Công an TP.HCM	||	Thi viết ứng dụng trên Zing me	||	http://www.congan.com.vn/?mod=detnews&catid=681&p=&id=137777	||
+||	Thế giới điện ảnh	||	Cuộc thi viết ứng dụng trên mạng xã hội Zing Me: Cơ hội cho các lập trình trẻ 	||	http://thegioidienanh.vn/newsdetail/media/17638/cuoc-thi-viet-ung-dung-tren-zing-me-%E2%80%93-co-hoi-cho-cac-nha-lap-trinh-tre.htm	||
+||	An Ninh Thủ Đô	||	Zing Me mở cuộc thi viết ứng dụng, game 	||	http://www.anninhthudo.vn/tianyon/index.aspx?articleid=81835&channelid=100	||
+||	Gameland	||	VNG tổ chức cuộc thi viết ứng dụng trên Zing Me	||	http://gameland.vn/2010/09/08/vng-to-chuc-cuoc-thi-viet-ung-dung-tren-zing-me/gameland.vn	||
+||	MMO	||	Viết ứng dụng trên Zing Me – cơ hội cho các nhà lập trình trẻ	||	http://www.mmo.vn/home/story-3910-Viet-ung-dung-tren-Zing-Me-–-co-hoi-cho-cac-nha-lap-trinh-tre.html	||
+||	Bưu điện	||	Zing Me mở cuộc thi viết ứng dụng, game 	||		||
+||	Thông tấn xã VN	||	Thi viết ứng dụng trên Zing me	||		||
+||	Người Lao Động CN	||	VNG tổ chức cuộc thi viết ứng dụng	||		||
+||	Thị trường giao dịch	||	Viết ứng dụng trên Zing me	||		||
+||	Hà Nội mới	||	Zing Me khởi động cuộc thi viết ứng dụng cho các nhà lập trình trẻ	||	http://hanoimoi.com.vn/newsdetail/cong_nghe/373594/zing-me-khoi-dong-cuoc-thi-viet-ung-dung-cho-cac-nha-lap-trinh-tre.htm/	||
+||	Thời Báo Kinh Tế Việt Nam	||	Thi viết ứng dụng dành cho các nhà lập trình trẻ	||		||
+||	Pháp luật TP.HCM	||	Viết ứng dụng trên Zing Me - cơ hội cho nhà lập trình trẻ	||		||
+||	Thị trường	||	Viết ứng dụng trên Zing Me - cơ hội cho nhà lập trình trẻ 	||		||
+||	Công Thương	||	Viết ứng dụng trên Zing Me: Cơ hội cho các nhà lập trình trẻ 	||		||
+||	Thời trang trẻ	||	Thi viết ứng dụng trên mạng Zing Me	||		||
+||	Nhịp sống số	||	Thi viết ứng dụng trên mạng Zing Me	||	http://nss.vn/TabId/495/ArticleId/937/PreTabId/456/Default.aspx	||
+||	Thế giới game	||	Thi ứng dụng trên Zing Me	||		||
+||	Nhịp sống số	||	"Viết ứng dụng cùng Zing Me": 10 ứng dụng độc đáo vào vòng 2	||	http://nss.vn/TabId/516/ArticleId/1489/PreTabId/480/Default.aspx	||
+||	Diễn đàn doanh nghiệp	||	Sẽ thêm nhiều ứng dụng hay trên Zing Me	||	http://dddn.com.vn/2011011811211686cat187/se-them-nhieu-ung-dung-hay-tren-zing-me.htm	||
+||	ICTnews	||	Sắp có thêm nhiều ứng dụng hay trên Zing Me	||	http://www.ictnews.vn/Home/internet/Sap-co%C2%A0them-nhieu-ung-dung-hay-tren-Zing-Me/2011/01/2VCMS7766832/View.htm	||
+||	Xã hội thông tin	||	Sẽ có thêm nhiều ứng dụng hay trên Zing Me	||	http://xahoithongtin.com.vn/20110118025914981p0c206/se-co-them-nhieu-ung-dung-hay-tren-zing-me.htm	||
+||	vtv.vn	||	10 ứng dụng được chọn thử nghiệm trên Zing Me	||	http://vtv.vn/Article/Get/10-ung-dung-duoc-chon-thu-nghiem-tren-Zing-Me-c8a119ddbe.html	||
+||	docbaogame.com	||	Sẽ thêm nhiều ứng dụng hay trên Zing Me	||	http://docbaogame.com/home/article/se-them-nhieu-ung-dung-hay-tren-zing-me-13856-110119.html	||
+||	Tin tức thông tấn xã	||	Sẽ thêm nhiều ứng dụng hay trên Zing Me	||		||
+||	Thế giới điện ảnh online	||	Thêm nhiều ứng dụng hay trên Zing Me	||	http://www.thegioidienanh.vn/newsdetail/19361/them-nhieu-ung-dung-hay-tren-zing-me.htm	||
+||	Việt tổng hợp	||	Sẽ thêm nhiều ứng dụng hay trên Zing Me	||	http://news.viettonghop.com/2223/se-them-nhieu-ung-dung-hay-tren-zing-me/viettonghop.com	||
+||	Gameland.vn	||	Sẽ thêm nhiều ứng dụng hay trên Zing Me	||	http://gameland.vn/2011/01/20/se-them-nhieu-ung-dung-hay-tren-zing-me/gameland.vn	||
+||	Đài Tiếng nói Việt Nam	||	Cuộc thi viết ứng dụng trên Zing Me	||	Thời lượng 2 phút, lúc 8h05 và 19h00 ngày 21/1/2011 trên sóng VOV1	||
+||	Zing News	||	Thêm nhiều ứng dụng hay trên Zing Me	||	http://www.zing.vn/news/cong-nghe/them-nhieu-ung-dung-hay-tren-zing-me/a104772.html	||
